@@ -1,0 +1,28 @@
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\bin\Debug\Lab.9.exe.config
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\bin\Debug\Lab.9.exe
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\bin\Debug\Lab.9.pdb
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.AssemblyReference.cache
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab._9.Form1.resources
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab._9.Properties.Resources.resources
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.GenerateResource.cache
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.CoreCompileInputs.cache
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.exe
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\bin\Debug\Lab.9.exe.config
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\bin\Debug\Lab.9.exe
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\bin\Debug\Lab.9.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\obj\Debug\Lab._9.Form1.resources
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\obj\Debug\Lab._9.Properties.Resources.resources
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.GenerateResource.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\obj\Debug\Lab.9.exe
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.9--main\Lab.9\Lab.9\obj\Debug\Lab.9.pdb
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.AssemblyReference.cache
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab._9.Form1.resources
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab._9.Properties.Resources.resources
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.GenerateResource.cache
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.CoreCompileInputs.cache
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab.9.exe
+C:\Users\Oregu\Desktop\LMV_LB-9-main\Lab.9\Lab.9\Lab.9\obj\Debug\Lab.9.pdb
