@@ -1,0 +1,41 @@
+C:\Users\Admin\source\repos\Math_interface\Math_interface\bin\Debug\Math_interface.exe.config
+C:\Users\Admin\source\repos\Math_interface\Math_interface\bin\Debug\Math_interface.exe
+C:\Users\Admin\source\repos\Math_interface\Math_interface\bin\Debug\Math_interface.pdb
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.Form1.resources
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.Properties.Resources.resources
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.exe
+C:\Users\Admin\source\repos\Math_interface\Math_interface\obj\Debug\Math_interface.pdb
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\bin\Debug\Math_interface.exe.config
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\bin\Debug\Math_interface.exe
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\bin\Debug\Math_interface.pdb
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.AssemblyReference.cache
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\obj\Debug\Math_interface.Form1.resources
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\obj\Debug\Math_interface.Properties.Resources.resources
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.GenerateResource.cache
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.CoreCompileInputs.cache
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\obj\Debug\Math_interface.exe
+E:\Kitsunya\Bursa\LMV\Lab.10\Math_interface\obj\Debug\Math_interface.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\bin\Debug\Math_interface.exe.config
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\bin\Debug\Math_interface.exe
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\bin\Debug\Math_interface.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\obj\Debug\Math_interface.Properties.Resources.resources
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.GenerateResource.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\obj\Debug\Math_interface.exe
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\obj\Debug\Math_interface.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.10-main\Lab.10\Math_interface\obj\Debug\Math_interface.MelMax.resources
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\bin\Debug\Math_interface.exe.config
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\bin\Debug\Math_interface.exe
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\bin\Debug\Math_interface.pdb
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.AssemblyReference.cache
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.MelMax.resources
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.Properties.Resources.resources
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.GenerateResource.cache
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.csproj.CoreCompileInputs.cache
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.exe
+C:\Users\Oregu\Desktop\LMV_LB-10-main\Lab.10\Lab.10\Math_interface\obj\Debug\Math_interface.pdb
