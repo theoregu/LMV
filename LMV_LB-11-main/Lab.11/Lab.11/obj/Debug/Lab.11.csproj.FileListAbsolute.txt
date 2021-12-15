@@ -1,0 +1,51 @@
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\bin\Debug\Lab.11.exe.config
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\bin\Debug\Lab.11.exe
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\bin\Debug\Lab.11.pdb
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.AssemblyReference.cache
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab._11.Properties.Resources.resources
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.GenerateResource.cache
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.CoreCompileInputs.cache
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.exe
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.pdb
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab._11.Kitsune.resources
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\bin\Debug\Lab.11.exe.config
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\bin\Debug\Lab.11.exe
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\bin\Debug\Lab.11.pdb
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\obj\Debug\Lab.11.csprojAssemblyReference.cache
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\obj\Debug\Lab._11.Kitsune.resources
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\obj\Debug\Lab._11.Properties.Resources.resources
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.GenerateResource.cache
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.CoreCompileInputs.cache
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\obj\Debug\Lab.11.exe
+C:\Users\Yankk\Desktop\Lab.11-main\Lab.11\Lab.11\obj\Debug\Lab.11.pdb
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\bin\Debug\Lab.11.exe.config
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\bin\Debug\Lab.11.exe
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\bin\Debug\Lab.11.pdb
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\obj\Debug\Lab.11.csprojAssemblyReference.cache
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\obj\Debug\Lab._11.qwezxc.resources
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\obj\Debug\Lab._11.Properties.Resources.resources
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.GenerateResource.cache
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.CoreCompileInputs.cache
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\obj\Debug\Lab.11.exe
+C:\Users\Yankk\Desktop\Lab.11-done\Lab.11\Lab.11\obj\Debug\Lab.11.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\bin\Debug\Lab.11.exe.config
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\bin\Debug\Lab.11.exe
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\bin\Debug\Lab.11.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\obj\Debug\Lab.11.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\obj\Debug\Lab._11.melnik.resources
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\obj\Debug\Lab._11.Properties.Resources.resources
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\obj\Debug\Lab.11.csproj.GenerateResource.cache
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\obj\Debug\Lab.11.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\obj\Debug\Lab.11.exe
+C:\Users\Макс\Desktop\Нова папка (3)\lab11\Lab.11\obj\Debug\Lab.11.pdb
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\bin\Debug\Lab.11.exe.config
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\bin\Debug\Lab.11.exe
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\bin\Debug\Lab.11.pdb
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.AssemblyReference.cache
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab._11.Properties.Resources.resources
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.GenerateResource.cache
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.CoreCompileInputs.cache
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab.11.exe
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab.11.pdb
+C:\Users\Oregu\Desktop\LMV_LB-11-main\Lab.11\Lab.11\obj\Debug\Lab._11.OlVoit.resources
