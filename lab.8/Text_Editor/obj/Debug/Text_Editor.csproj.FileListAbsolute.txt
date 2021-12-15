@@ -1,0 +1,51 @@
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe.config
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\bin\Debug\Text_Editor.pdb
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Form1.resources
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.exe
+C:\Users\Admin\source\repos\Text_Editor\Text_Editor\obj\Debug\Text_Editor.pdb
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe.config
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\bin\Debug\Text_Editor.pdb
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.AssemblyReference.cache
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Form1.resources
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.GenerateResource.cache
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\obj\Debug\Text_Editor.csproj.CoreCompileInputs.cache
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\obj\Debug\Text_Editor.exe
+E:\Kitsunya\Bursa\Text_Editor\Text_Editor\obj\Debug\Text_Editor.pdb
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\bin\Debug\Text_Editor.exe.config
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\bin\Debug\Text_Editor.exe
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\bin\Debug\Text_Editor.pdb
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.AssemblyReference.cache
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\obj\Debug\Text_Editor.Form1.resources
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.GenerateResource.cache
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.CoreCompileInputs.cache
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\obj\Debug\Text_Editor.exe
+E:\Kitsunya\Bursa\LMV\lab.8\Text_Editor\obj\Debug\Text_Editor.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\bin\Debug\Text_Editor.exe.config
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\bin\Debug\Text_Editor.exe
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\bin\Debug\Text_Editor.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.GenerateResource.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\obj\Debug\Text_Editor.exe
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\obj\Debug\Text_Editor.pdb
+C:\Users\Макс\Desktop\Нова папка (3)\Lab.8-LMV-main\lab.8\Text_Editor\obj\Debug\Text_Editor.MelMax.resources
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\bin\Debug\Text_Editor.exe.config
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\bin\Debug\Text_Editor.exe
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\bin\Debug\Text_Editor.pdb
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.AssemblyReference.cache
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.GenerateResource.cache
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.exe
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.pdb
+C:\Users\Oregu\Desktop\LMV_LB-8-main\Lab.8\lab.8\Text_Editor\obj\Debug\Text_Editor.OlVoit.resources
